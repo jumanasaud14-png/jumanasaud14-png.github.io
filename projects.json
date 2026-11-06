@@ -1,0 +1,383 @@
+[
+  {
+    "id": "education",
+    "image": "education.webp",
+    "imageClass": "education",
+    "alt": {
+      "en": "Actual Arabic homepage of the educational website prototype",
+      "ar": "الصفحة العربية الفعلية للنموذج الأولي للموقع التعليمي"
+    },
+    "en": {
+      "title": "Learning beyond the classroom.",
+      "org": "FRIENDS OF THE ARABIAN LEOPARD",
+      "status": "Working prototype · In development",
+      "category": "Digital education · Bilingual storytelling · Interactive prototyping",
+      "summary": "A child, a teenager and a teacher arrive with different needs. The experience starts with that difference.",
+      "context": "A bilingual educational experience for children, families and teachers. I developed the initial idea into a working prototype, with learning pathways, games, stories and classroom resources.",
+      "challenge": [
+        "One subject. Different ways to learn.",
+        "Content for a young child cannot simply be carried over to a teenager. Teachers and parents also need their own routes into the material, with resources that work beyond the screen."
+      ],
+      "thinking": [
+        "Begin with the person using it.",
+        "I organised the experience around age pathways and separate routes for teachers and parents. Younger children can listen as well as read. Teenagers encounter a different tone and visual language through Mazen’s Notebook, a bilingual school story."
+      ],
+      "execution": [
+        "An idea made tangible.",
+        "The prototype brings together games, bilingual stories and narration, interactive colouring, printable activities and teacher resources. I used AI-assisted tools to develop the initial website, games and content. The final name and direction remain in development."
+      ],
+      "role": "Originated the concept, shaped the learning journeys, built the initial website structure and games, and developed bilingual stories and educational resources.",
+      "outcome": "Working prototype developed as a starting point for the Fund’s education project. The final name, direction and public launch remain in development.",
+      "evidence": "Actual prototype screenshot from the existing portfolio. It documents a development version, not a launched product.",
+      "missing": "Confirm the final initiative name, approved public link and launch status. Add usability feedback, educational review and cleared screenshots.",
+      "proof": "Idea → working prototype",
+      "proofDetail": "Learning journeys, bilingual stories and interactive activities, brought together in a working prototype.",
+      "contributionTitle": "A working educational experience",
+      "decisionLine": "Own the idea. Make it testable.",
+      "visualNote": "Working prototype · Actual screen"
+    },
+    "ar": {
+      "title": "التعلّم لا ينتهي عند الصف.",
+      "org": "أصدقاء النمر العربي",
+      "status": "نموذج يعمل · قيد التطوير",
+      "category": "التعليم الرقمي · السرد بلغتين · النماذج التفاعلية",
+      "summary": "يصل الطفل والمراهق والمعلم باحتياجات مختلفة. من هذا الاختلاف تبدأ التجربة.",
+      "context": "تجربة تعليمية بالعربية والإنجليزية للأطفال والعائلات والمعلمين. طوّرت الفكرة إلى نموذج يعمل، يجمع مسارات التعلّم والألعاب والقصص والموارد الصفية.",
+      "challenge": [
+        "موضوع واحد، ومداخل مختلفة للتعلّم.",
+        "ما يناسب طفلًا صغيرًا لا ينتقل كما هو إلى المراهق. ويحتاج المعلم والوالدان إلى مسارات واضحة وموارد يمكن استخدامها خارج الشاشة أيضًا."
+      ],
+      "thinking": [
+        "البداية من الشخص الذي سيستخدمه.",
+        "نظمت المحتوى في مسارات عمرية، مع مداخل مستقلة للمعلمين والوالدين. يستطيع الصغار سماع القصة وقراءتها، بينما يقدم «دفتر مازن» للمراهقين قصة مدرسية بلغتين وصوتًا بصريًا ولغويًا يناسبهم."
+      ],
+      "execution": [
+        "فكرة أصبح بالإمكان تجربتها.",
+        "يجمع النموذج الألعاب والقصص والسرد الصوتي بلغتين، والتلوين التفاعلي والأنشطة القابلة للطباعة وموارد المعلم. استعنت بأدوات الذكاء الاصطناعي في تطوير الموقع والألعاب والمحتوى الأولي. ما زال الاسم والتوجه النهائي قيد التطوير."
+      ],
+      "role": "ابتكرت الفكرة وصممت مسارات التعلّم، وبنيت هيكل الموقع وألعابه الأولى، وطورت القصص والموارد التعليمية بالعربية والإنجليزية.",
+      "outcome": "نموذج يعمل، أصبح أساسًا يمكن تطويره ضمن مشروع التعليم في الصندوق. ما زال الاسم والتوجه النهائي والإطلاق العام قيد التطوير.",
+      "evidence": "لقطة فعلية للنموذج الأولي من ملف الأعمال، توثق نسخة تطوير وليست منتجًا أُطلق للجمهور.",
+      "missing": "تأكيد الاسم النهائي والرابط المعتمد وحالة الإطلاق. إضافة نتائج تجربة الاستخدام والمراجعة التعليمية ولقطات مسموح بنشرها.",
+      "proof": "من الفكرة إلى نموذج يعمل",
+      "proofDetail": "مسارات تعلّم وقصص بلغتين وأنشطة تفاعلية، ضمن نموذج قابل للتجربة.",
+      "contributionTitle": "تجربة تعليمية قابلة للاستخدام",
+      "decisionLine": "أطوّر الفكرة وأجعلها قابلة للتجربة.",
+      "visualNote": "نموذج أولي · شاشة فعلية"
+    },
+    "icon": "learn",
+    "tone": "blue"
+  },
+  {
+    "id": "conservation",
+    "image": "community.webp",
+    "alt": {
+      "en": "Visitors engaging with the Arabian Leopard Fund booth at Environment Week",
+      "ar": "زوار يتفاعلون مع جناح صندوق النمر العربي في أسبوع البيئة"
+    },
+    "imageClass": "event",
+    "en": {
+      "title": "Making conservation relevant.",
+      "org": "ARABIAN LEOPARD FUND",
+      "status": "Delivered event participation",
+      "category": "Advocacy · Public engagement · Coordination",
+      "summary": "Bringing an environmental mission into a space where people can meet it, question it, and connect with it.",
+      "context": "Environment Week brought the Fund into direct contact with the public. My work connected the content people encountered with the practical details that made the booth function.",
+      "challenge": [
+        "Make the encounter matter.",
+        "A public event asks for more than information on a wall. The content, people and visitor experience need to work together, while suppliers and partners need clear requirements."
+      ],
+      "thinking": [
+        "One experience. Many moving parts.",
+        "I brought booth content, visitor experience and operational arrangements into the same coordination process. Working directly with fabricators and the ministry meant carrying the communication requirements through to delivery."
+      ],
+      "execution": [
+        "From content to the event floor.",
+        "I coordinated the Fund’s participation, working with booth fabricators, staff, speakers and photographers. My remit also included hospitality and ministry coordination. The photographs shown here are from the existing portfolio."
+      ],
+      "role": "Sole coordinator of the Fund’s participation, working with the suppliers and people involved in delivery. Developed booth content and coordinated the visitor-facing arrangements.",
+      "outcome": "The Fund’s event participation was delivered and documented. Photographs show the public-facing experience.",
+      "evidence": "Environment Week photography from Jumanah’s portfolio. Public reuse permission and photographer credit still need confirmation.",
+      "missing": "Confirm event date, image publication rights and photographer credits. Add any approved visitor feedback or event evaluation.",
+      "proof": "Content → event floor",
+      "proofDetail": "Booth content, visitor experience and practical coordination.",
+      "contributionTitle": "A coordinated public presence",
+      "decisionLine": "Keep the message and delivery together.",
+      "visualNote": "Environment Week · Event photography"
+    },
+    "ar": {
+      "title": "حين تصبح القضية قريبة.",
+      "org": "صندوق النمر العربي",
+      "status": "مشاركة منفذة",
+      "category": "المناصرة · التواصل مع الجمهور · التنسيق",
+      "summary": "نقل رسالة بيئية إلى مساحة يلتقي فيها الجمهور بالقضية، ويسأل عنها، ويجد ما يربطه بها.",
+      "context": "أتاح أسبوع البيئة للصندوق التواصل المباشر مع الجمهور. جمع عملي بين المحتوى الذي يراه الزائر والتفاصيل العملية التي تجعل الجناح يعمل كما ينبغي.",
+      "challenge": [
+        "تجربة تتجاوز عرض المعلومات.",
+        "لا تكفي المعلومات على جدار الجناح. يحتاج المحتوى وفريق العمل وتجربة الزائر إلى ترابط، ويحتاج الموردون والشركاء إلى متطلبات واضحة."
+      ],
+      "thinking": [
+        "تجربة واحدة، وتفاصيل مترابطة.",
+        "جمعت محتوى الجناح وتجربة الزائر والترتيبات التشغيلية ضمن عمل تنسيقي واحد. ومن خلال التواصل المباشر مع منفذي الجناح والوزارة، تابعت متطلبات الاتصال حتى التنفيذ."
+      ],
+      "execution": [
+        "من المحتوى إلى أرض الفعالية.",
+        "نسقت مشاركة الصندوق مع منفذي الجناح وطاقمه والمتحدثين والمصورين. شمل دوري الضيافة والتنسيق مع الوزارة. الصور المعروضة مأخوذة من ملف أعمالي الحالي."
+      ],
+      "role": "توليت مسؤولية تنسيق مشاركة الصندوق بشكل مستقل، بالتعاون مع الموردين والمشاركين في التنفيذ. طورت محتوى الجناح ونسقت الترتيبات المرتبطة بالزوار.",
+      "outcome": "مشاركة نُفذت ووُثقت، وتوضح الصور جانبًا من تجربة الجمهور في الجناح.",
+      "evidence": "صور أسبوع البيئة من ملف الأعمال. يلزم تأكيد حقوق نشرها علنًا وإضافة اسم المصور.",
+      "missing": "تأكيد تاريخ الفعالية، وحقوق نشر الصور، واسم المصور. إضافة أي تقييم معتمد للفعالية أو ملاحظات موثقة من الزوار.",
+      "proof": "من المحتوى إلى أرض الفعالية",
+      "proofDetail": "محتوى الجناح وتجربة الزائر والتنسيق العملي للمشاركة.",
+      "contributionTitle": "حضور متكامل أمام الجمهور",
+      "decisionLine": "أربط الرسالة بتفاصيل تنفيذها.",
+      "visualNote": "أسبوع البيئة · صورة من المشاركة"
+    },
+    "icon": "connect",
+    "tone": "red"
+  },
+  {
+    "id": "rcu",
+    "image": "sharaan.webp",
+    "imageClass": "destination",
+    "alt": {
+      "en": "Project imagery of Sharaan by Jean Nouvel reproduced in the existing portfolio",
+      "ar": "صورة مشروع شرعان من تصميم جان نوفيل كما وردت في ملف الأعمال"
+    },
+    "en": {
+      "title": "Communications at destination scale.",
+      "org": "ROYAL COMMISSION FOR ALULA",
+      "status": "Previous experience",
+      "category": "Corporate communications · Stakeholders · Destination development",
+      "summary": "Different sectors, different timelines. A communication approach that understands both.",
+      "context": "On-site communications experience within the RCU environment, across development and construction, operations, hotels and resorts, and Cultural Oasis work.",
+      "challenge": [
+        "Keep the bigger picture in view.",
+        "Each department has its own priorities, delivery milestones and audiences. Institutional communication needs to reflect those differences while staying coherent across the destination."
+      ],
+      "thinking": [
+        "Follow the project before telling its story.",
+        "Working with the responsible departments helped connect communication plans to actual project progress. The scope included near-term priorities and longer planning horizons, before, during and after launch."
+      ],
+      "execution": [
+        "Communication across workstreams.",
+        "I contributed to departmental communication plans and coordinated with internal stakeholders across the relevant sectors. The portfolio includes destination projects within that remit. Their inclusion does not imply ownership of the underlying developments."
+      ],
+      "role": "On-site team member, including a full-time contractor consultant role. Communications planning and stakeholder coordination, not direct RCU employment as a consultant.",
+      "outcome": "Professional experience from January 2024 to March 2025, spanning a trainee period and an on-site contractor consultancy.",
+      "evidence": "Project imagery from the existing portfolio, used to indicate sector context. It is not design work authored by Jumanah. Public reuse rights and attribution need confirmation.",
+      "missing": "Confirm publishable contribution examples, employer naming for the contractor period and project image permissions. Keep internal plans and stakeholder information private.",
+      "proof": "Department priorities → communication plans",
+      "proofDetail": "On-site experience across development, operations, hospitality and culture.",
+      "contributionTitle": "Communication across workstreams",
+      "decisionLine": "Connect the details to the bigger picture.",
+      "visualNote": "Destination project imagery · Sector context"
+    },
+    "ar": {
+      "title": "اتصال بحجم وجهة.",
+      "org": "الهيئة الملكية لمحافظة العلا",
+      "status": "خبرة سابقة",
+      "category": "الاتصال المؤسسي · أصحاب العلاقة · تطوير الوجهات",
+      "summary": "قطاعات متعددة وجداول زمنية مختلفة، وعمل اتصالي يستوعب كليهما.",
+      "context": "خبرة اتصالية من داخل بيئة الهيئة، شملت التطوير والإنشاءات والعمليات والفنادق والمنتجعات وعمل الواحة الثقافية.",
+      "challenge": [
+        "متابعة التفاصيل دون فقدان الصورة الأكبر.",
+        "لكل إدارة أولوياتها ومراحل تنفيذها وجمهورها. يحتاج الاتصال المؤسسي إلى استيعاب هذه الاختلافات مع الحفاظ على اتساق الرسالة على مستوى الوجهة."
+      ],
+      "thinking": [
+        "أتابع المشروع قبل أن أروي قصته.",
+        "ساعد العمل مع الإدارات المسؤولة على ربط خطط الاتصال بالتقدم الفعلي للمشاريع. شمل النطاق أولويات قريبة وخططًا تمتد إلى ما قبل الإطلاق وخلاله وبعده."
+      ],
+      "execution": [
+        "عمل اتصالي عبر مسارات متعددة.",
+        "ساهمت في خطط الاتصال للإدارات والتنسيق مع أصحاب العلاقة الداخليين عبر القطاعات المعنية. يتضمن ملف الأعمال مشاريع ضمن هذا النطاق، ولا يعني عرضها ملكية تطوير تلك المشاريع."
+      ],
+      "role": "عضو في الفريق يعمل من مقر الهيئة، وشمل ذلك فترة استشارية بدوام كامل عبر تعاقد خارجي. مساهمتي في الاتصال والتنسيق، دون ادعاء توظيف مباشر في الفترة الاستشارية.",
+      "outcome": "خبرة من يناير ٢٠٢٤ إلى مارس ٢٠٢٥، شملت فترة تدريب ثم عملًا استشاريًا من مقر الهيئة عبر تعاقد خارجي.",
+      "evidence": "صورة مشروع من ملف الأعمال لتوضيح سياق القطاع، وليست تصميمًا من إعدادي. يلزم تأكيد حقوق إعادة النشر ونسبة الصورة إلى مصدرها.",
+      "missing": "تأكيد أمثلة مساهمة قابلة للنشر، واسم جهة التعاقد للفترة الاستشارية، وحقوق الصور. تبقى الخطط الداخلية ومعلومات أصحاب العلاقة غير منشورة.",
+      "proof": "من أولويات الإدارات إلى خطط الاتصال",
+      "proofDetail": "خبرة من داخل الفريق عبر التطوير والعمليات والضيافة والثقافة.",
+      "contributionTitle": "اتصال عبر مسارات متعددة",
+      "decisionLine": "أربط تفاصيل العمل بالصورة الأكبر.",
+      "visualNote": "صورة مشروع لتوضيح سياق القطاع"
+    },
+    "icon": "place",
+    "tone": "green"
+  },
+  {
+    "id": "immersive",
+    "image": null,
+    "imageClass": "concept",
+    "art": "Closer.<br>Not louder.",
+    "en": {
+      "title": "Reimagining an encounter.",
+      "org": "IMMERSIVE ARABIAN LEOPARD EXPERIENCE",
+      "status": "Concept & development",
+      "category": "Creative concept · Narrative · Visitor experience",
+      "summary": "Exploring how an encounter can make a distant subject feel immediate.",
+      "context": "Concept development for a portable immersive experience connecting an endangered species with culture, landscape and human attention.",
+      "challenge": [
+        "Create a connection that can travel.",
+        "The experience needs an emotional reason to exist and a practical path to execution. Its narrative, visitor journey and physical footprint must make sense together."
+      ],
+      "thinking": [
+        "The story comes before the technology.",
+        "My approach starts with what a visitor should feel and take away. Emerging technology is considered as a way to support that encounter, alongside narrative, audience engagement and the practical limits of an event setting."
+      ],
+      "execution": [
+        "From narrative to a workable brief.",
+        "The work spans creative concepts, narrative development and visitor experience thinking, alongside requirements for a portable solution. The visual treatment here is a process illustration. It is not a photograph or render of an executed installation."
+      ],
+      "role": "Creative concept development, narrative and visitor experience thinking, with attention to delivery requirements.",
+      "outcome": "Concept and development work, focused on narrative, visitor experience and the requirements of a portable solution.",
+      "evidence": "Conceptual editorial illustration. Approved experience visuals are still to be added.",
+      "missing": "Confirm the approved concept, personal contribution, prototype status and publishable storyboard or visitor journey. Exclude vendor proposals and procurement details.",
+      "visualNote": "Editorial illustration · Concept in development"
+    },
+    "ar": {
+      "title": "لقاء يعيد تقديم الحكاية.",
+      "org": "تجربة النمر العربي الغامرة",
+      "status": "فكرة قيد التطوير",
+      "category": "الفكرة الإبداعية · السرد · تجربة الزائر",
+      "summary": "استكشاف كيف تجعل تجربة واحدة موضوعًا بعيدًا أكثر قربًا من الإنسان.",
+      "context": "تطوير تصور لتجربة غامرة قابلة للنقل، تربط نوعًا مهددًا بالانقراض بالثقافة والطبيعة وانتباه الزائر.",
+      "challenge": [
+        "تجربة مؤثرة وقابلة للنقل.",
+        "تحتاج التجربة إلى سبب إنساني واضح ومسار عملي للتنفيذ. ينبغي أن تتكامل القصة ورحلة الزائر والمساحة المتاحة."
+      ],
+      "thinking": [
+        "القصة أولًا، ثم التقنية المناسبة.",
+        "أبدأ بما ينبغي أن يشعر به الزائر وما يبقى معه بعد التجربة. تأتي التقنية لدعم هذا اللقاء، إلى جانب السرد والتفاعل وحدود التنفيذ في موقع الفعالية."
+      ],
+      "execution": [
+        "من الحكاية إلى متطلبات قابلة للتنفيذ.",
+        "يشمل العمل تطوير الفكرة والسرد والتفكير في رحلة الزائر ومتطلبات الحل المتنقل. المعالجة البصرية هنا توضيح للفكرة وليست صورة أو محاكاة لتركيب نُفذ بالفعل."
+      ],
+      "role": "تطوير الفكرة الإبداعية والسرد وتجربة الزائر، مع مراعاة المتطلبات العملية للتنفيذ.",
+      "outcome": "عمل قيد التطوير يركز على السرد وتجربة الزائر ومتطلبات الحل القابل للنقل.",
+      "evidence": "توضيح بصري مفاهيمي. ستُضاف مواد التجربة بعد اعتماد نشرها.",
+      "missing": "تأكيد الفكرة المعتمدة والمساهمة وحالة النموذج، وإضافة قصة مصورة أو رحلة زائر مسموح بنشرها. استبعاد عروض الموردين وتفاصيل المشتريات.",
+      "visualNote": "رسم توضيحي · فكرة قيد التطوير"
+    },
+    "icon": "encounter",
+    "tone": "blue"
+  },
+  {
+    "id": "leopard-day",
+    "image": null,
+    "imageClass": "concept",
+    "art": "A day.<br>A possibility.",
+    "en": {
+      "title": "From campaign to cultural moment.",
+      "org": "ARABIAN LEOPARD DAY",
+      "status": "Planning & proposed concepts",
+      "category": "Campaign development · Participation · Activation planning",
+      "summary": "Exploring how an awareness day can give people a practical way to take part.",
+      "context": "Planning and creative development around Arabian Leopard Day, with public participation and shareable assets as potential routes into the subject.",
+      "challenge": [
+        "Give awareness somewhere to go.",
+        "An awareness moment needs an invitation that people and partners can understand and use. Each activation also has to work within practical delivery requirements and the Fund’s communication role."
+      ],
+      "thinking": [
+        "Make participation part of the idea.",
+        "The work considers how campaign content, visual guidance and participation ideas connect across different settings. The strategic direction is to make it easier for people to engage with the subject in their own context."
+      ],
+      "execution": [
+        "A framework for activation.",
+        "My scope includes campaign planning, creative concepts, visual guidance and activation frameworks. Proposed activities and assets remain subject to approval. This case study does not represent them as a completed campaign."
+      ],
+      "role": "Communications planning and creative development within the Fund’s wider Arabian Leopard Day work.",
+      "outcome": "Planning and concept work. Final approvals, execution status and results require confirmation.",
+      "evidence": "Editorial study created for this website. Not an approved campaign asset.",
+      "missing": "Add the approved campaign brief, final role attribution, cleared assets and a confirmed list of executed activations.",
+      "visualNote": "Editorial illustration · Proposed activation work"
+    },
+    "ar": {
+      "title": "من يوم توعوي إلى مساحة للمشاركة.",
+      "org": "يوم النمر العربي",
+      "status": "تخطيط وأفكار مقترحة",
+      "category": "تطوير الحملات · المشاركة · تخطيط التفعيل",
+      "summary": "استكشاف كيف يمكن ليوم توعوي أن يمنح الناس طريقة واضحة للمشاركة.",
+      "context": "عمل تخطيطي وإبداعي ليوم النمر العربي، يبحث في المشاركة العامة والمواد القابلة للنشر بوصفها مداخل للتفاعل مع القضية.",
+      "challenge": [
+        "ماذا يأتي بعد المعرفة؟",
+        "تحتاج المناسبة التوعوية إلى دعوة يفهمها الجمهور والشركاء ويستطيعون تطبيقها. كما يجب أن تراعي كل فكرة متطلبات التنفيذ ودور الصندوق في الاتصال والمناصرة."
+      ],
+      "thinking": [
+        "تكون المشاركة جزءًا من الفكرة.",
+        "يربط العمل بين محتوى الحملة والتوجيه البصري وأفكار المشاركة في سياقات مختلفة. والهدف الاتصالي هو تسهيل تفاعل الناس مع القضية من خلال ما يناسبهم."
+      ],
+      "execution": [
+        "إطار يمكن البناء عليه.",
+        "يشمل نطاقي التخطيط الاتصالي والأفكار الإبداعية والتوجيه البصري وأطر التفعيل. تبقى الأنشطة والمواد المقترحة خاضعة للاعتماد، ولا تعرضها هذه الدراسة بوصفها حملة منفذة."
+      ],
+      "role": "التخطيط الاتصالي والتطوير الإبداعي ضمن عمل الصندوق الأوسع ليوم النمر العربي.",
+      "outcome": "عمل في مرحلة التخطيط وتطوير الأفكار. يلزم تأكيد الاعتمادات النهائية والتنفيذ والنتائج.",
+      "evidence": "معالجة بصرية أُعدت لهذا الموقع، وليست مادة معتمدة للحملة.",
+      "missing": "إضافة الموجز المعتمد، وتحديد المساهمة النهائية، والمواد المسموح بنشرها، والأنشطة التي نُفذت بالفعل.",
+      "visualNote": "رسم توضيحي · أفكار تفعيل مقترحة"
+    },
+    "icon": "participate",
+    "tone": "amber"
+  },
+  {
+    "id": "microgrants",
+    "image": null,
+    "imageClass": "concept",
+    "art": "Understand.<br>Participate.",
+    "en": {
+      "title": "Communication that drives participation.",
+      "org": "MICROGRANTS COMMUNICATIONS",
+      "status": "Communications workstream",
+      "category": "Content planning · Clear messaging · Audience needs",
+      "summary": "Making an opportunity easier to understand, navigate and act on.",
+      "context": "Communications for a grant opportunity serving audiences with different interests and information needs.",
+      "challenge": [
+        "Make the next step clear.",
+        "People need to understand the opportunity, assess whether it is relevant and find reliable information about the process. The communication task is to remove avoidable uncertainty."
+      ],
+      "thinking": [
+        "Organise around the audience’s questions.",
+        "Eligibility, purpose, timing and the next step belong in a clear hierarchy. Content planning should help audiences move from initial awareness to an informed decision about participation."
+      ],
+      "execution": [
+        "Clarity across the communication journey.",
+        "My work includes messaging, content planning and coordination around programme communications. Applicant information, evaluation material and unpublished awards are excluded from this case study."
+      ],
+      "role": "Communications content and planning, coordinated with the programme and relevant stakeholders.",
+      "outcome": "Programme communications work. Published assets and verified aggregate participation results can extend this case study when available.",
+      "evidence": "Process illustration only. Approved public communication assets are still to be added.",
+      "missing": "Add published assets, confirmed cycle dates and a precise contribution summary. Only include verified, aggregate results cleared for public use.",
+      "visualNote": "Editorial illustration · Programme communications"
+    },
+    "ar": {
+      "title": "اتصال يسهّل المشاركة.",
+      "org": "اتصال برنامج المنح المصغرة",
+      "status": "مسار عمل اتصالي",
+      "category": "تخطيط المحتوى · وضوح الرسالة · احتياجات الجمهور",
+      "summary": "جعل الفرصة أسهل في الفهم، وأسهل في الوصول إلى الخطوة التالية.",
+      "context": "اتصال لفرصة تمويل تستهدف جمهورًا متنوع الاهتمامات والاحتياجات المعلوماتية.",
+      "challenge": [
+        "الخطوة التالية يجب أن تكون واضحة.",
+        "يحتاج الشخص إلى فهم الفرصة وتحديد مدى مناسبتها له والوصول إلى معلومات موثوقة عن الإجراءات. دور الاتصال هو تقليل الغموض الذي يمكن تجنبه."
+      ],
+      "thinking": [
+        "ترتيب المحتوى حسب أسئلة الجمهور.",
+        "الأهلية والهدف والمواعيد والخطوة التالية تحتاج إلى تسلسل واضح. يساعد تخطيط المحتوى الجمهور على الانتقال من معرفة الفرصة إلى اتخاذ قرار واعٍ بالمشاركة."
+      ],
+      "execution": [
+        "وضوح على امتداد الرحلة.",
+        "يشمل عملي الرسائل وتخطيط المحتوى والتنسيق حول اتصالات البرنامج. تستبعد هذه الدراسة بيانات المتقدمين ومواد التقييم والجوائز غير المعلنة."
+      ],
+      "role": "المحتوى والتخطيط الاتصالي بالتنسيق مع فريق البرنامج وأصحاب العلاقة.",
+      "outcome": "عمل اتصالي للبرنامج، يمكن استكماله بالمواد المنشورة ونتائج المشاركة الإجمالية الموثقة عند توفرها.",
+      "evidence": "توضيح للعملية فقط. ستُضاف المواد المنشورة بعد تأكيد صلاحية استخدامها.",
+      "missing": "إضافة المواد المنشورة ومواعيد الدورة المؤكدة وملخص دقيق للمساهمة. تُستخدم فقط النتائج الإجمالية الموثقة والمسموح بنشرها.",
+      "visualNote": "رسم توضيحي · اتصال البرنامج"
+    },
+    "icon": "direction",
+    "tone": "green"
+  }
+]
