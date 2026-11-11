@@ -1,0 +1,27 @@
+// Self-hosted AI narration; production settings and hashes are in tools/narration-production.json.
+export const recordings = Object.freeze({
+  "mountains:ar:1": "./audio/mountains-ar-1.mp3",
+  "mountains:en:1": "./audio/mountains-en-1.mp3",
+  "mountains:ar:2": "./audio/mountains-ar-2.mp3",
+  "mountains:en:2": "./audio/mountains-en-2.mp3",
+  "mountains:ar:3": "./audio/mountains-ar-3.mp3",
+  "mountains:en:3": "./audio/mountains-en-3.mp3",
+  "mountains:ar:4": "./audio/mountains-ar-4.mp3",
+  "mountains:en:4": "./audio/mountains-en-4.mp3",
+  "mountains:ar:5": "./audio/mountains-ar-5.mp3",
+  "mountains:en:5": "./audio/mountains-en-5.mp3",
+  "mountains:ar:6": "./audio/mountains-ar-6.mp3",
+  "mountains:en:6": "./audio/mountains-en-6.mp3",
+  "colours:ar:1": "./audio/colours-ar-1.mp3",
+  "colours:en:1": "./audio/colours-en-1.mp3",
+  "colours:ar:2": "./audio/colours-ar-2.mp3",
+  "colours:en:2": "./audio/colours-en-2.mp3",
+  "colours:ar:3": "./audio/colours-ar-3.mp3",
+  "colours:en:3": "./audio/colours-en-3.mp3",
+  "colours:ar:4": "./audio/colours-ar-4.mp3",
+  "colours:en:4": "./audio/colours-en-4.mp3",
+  "colours:ar:5": "./audio/colours-ar-5.mp3",
+  "colours:en:5": "./audio/colours-en-5.mp3",
+  "colours:ar:6": "./audio/colours-ar-6.mp3",
+  "colours:en:6": "./audio/colours-en-6.mp3"
+});

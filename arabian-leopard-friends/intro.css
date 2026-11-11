@@ -1,0 +1,29 @@
+.welcome-open{overflow:hidden}
+.intro-dialog{position:fixed;inset:0;width:100%;max-width:none;height:100%;height:100svh;max-height:none;margin:0;padding:0;border:0;color:#29253f;background:radial-gradient(ellipse at 8% 95%,#6de3c9 0,transparent 44%),radial-gradient(ellipse at 93% 9%,#ffda67 0,transparent 42%),#f4f0ff;overflow:auto;overscroll-behavior:contain}
+.intro-dialog:not([open]){display:none}
+.intro-dialog::backdrop{background:#29253f}
+.intro-shell{min-height:100%;width:min(1320px,100%);margin:auto;padding:20px 28px 24px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:14px}
+.intro-topbar{width:100%;display:flex;align-items:center;justify-content:space-between;gap:20px}
+.intro-brand{width:88px;height:82px;flex-shrink:0}
+.intro-top-actions{display:flex;align-items:center;gap:12px}
+.intro-skip{min-height:46px;border:0;border-radius:30px;padding:10px 17px;color:#493886;background:#fff;font:600 .9rem/1.6 Alexandria,sans-serif;cursor:pointer}
+.intro-skip:hover{background:#ebe2ff}
+.intro-title{margin:0;text-align:center;font:800 2.7rem/1.3 Baloo,Alexandria,sans-serif;color:#413077}
+.intro-stage{position:relative;width:min(1100px,100%,calc((100svh - 266px)*16/9));aspect-ratio:16/9;border:5px solid #fff;border-radius:28px;background:#d7eef0;overflow:hidden;box-shadow:0 13px 0 -6px #6f45df33,0 22px 65px #3b217727}
+.intro-stage video{display:block;width:100%;height:100%;object-fit:contain;background:#d7eef0}
+.intro-stage video::cue{font-family:Alexandria,sans-serif;font-size:1rem;color:white;background:#231d3fe6;line-height:1.7}
+.intro-play{position:absolute;inset:auto 50% 28px auto;transform:translateX(50%);display:flex;align-items:center;justify-content:center;gap:13px;white-space:nowrap;min-height:62px;padding:14px 26px;border:3px solid #fff;border-radius:99px;color:#322258;background:#ffcf50;font:700 1.12rem/1.6 Alexandria,sans-serif;box-shadow:0 6px 0 #32225828;cursor:pointer}
+.intro-play:hover{background:#ffdc78}.intro-play:disabled{cursor:wait;opacity:.9}.intro-play-icon{display:grid;place-items:center;width:30px;height:30px;border-radius:50%;background:#fff;color:#5030af;font-size:14px;direction:ltr;padding-left:2px}
+.intro-play[hidden]{display:none}
+.intro-bottom{display:flex;flex-direction:column;align-items:center;gap:7px;width:100%}
+.intro-enter{min-width:205px;min-height:50px;padding:11px 28px;border:0;border-radius:16px;background:#7044e8;color:white;font:600 1rem/1.8 Alexandria,sans-serif;box-shadow:0 4px 0 #5030af;cursor:pointer}
+.intro-enter:hover{background:#6033d5}
+.intro-status{max-width:630px;margin:3px 0 0;text-align:center;font-size:.875rem;line-height:1.8;color:#493886}
+.intro-status:empty{display:none}
+.intro-replay{display:inline-flex;align-items:center;gap:8px;border:1px solid #dbd0f5;border-radius:99px;padding:9px 16px;background:white;color:#5030af;font:600 .875rem/1.7 Alexandria,sans-serif;min-height:44px;cursor:pointer;text-decoration:none;white-space:nowrap}
+.intro-replay:hover{background:#eee7ff}
+.welcome-heading-side{display:flex;flex-direction:column;align-items:flex-end;gap:10px;flex-shrink:0}
+.intro-dialog button:focus-visible,.intro-replay:focus-visible{outline:3px solid #29253f;outline-offset:4px}
+#welcome-title:focus{outline:none}
+@media(max-width:650px){.intro-shell{padding:14px 16px 24px;gap:18px;justify-content:flex-start}.intro-brand{width:72px;height:70px}.intro-top-actions{gap:7px}.intro-skip{font-size:.8rem;padding:9px 12px}.intro-top-actions .language-switch{font-size:.8rem;padding:9px 12px}.intro-title{font-size:2.15rem;margin:15px 0 5px}.intro-stage{width:100%;border-width:3px;border-radius:21px}.intro-play{bottom:16px;min-height:50px;padding:10px 16px;font-size:.92rem;gap:8px}.intro-play-icon{width:25px;height:25px;font-size:12px}.intro-stage video::cue{font-size:14px}.intro-bottom{gap:12px}.intro-enter{min-height:54px;width:min(100%,310px)}.welcome-heading-side{align-items:flex-start;gap:12px;margin-top:16px}}
+@media(max-height:550px) and (min-width:651px){.intro-shell{justify-content:flex-start}.intro-stage{width:min(850px,100%)}.intro-brand{height:60px;width:65px}.intro-title{font-size:2rem}}
