@@ -1,0 +1,19 @@
+Namour welcome — landscape credits
+
+Landscape adapted from the following photographs by Francesco Bini (Sailko), Wikimedia Commons:
+Dhofar, Jabal Samhan, wadi 01.jpg
+https://commons.wikimedia.org/wiki/File:Dhofar,_Jabal_Samhan,_wadi_01.jpg
+Dhofar, Jabal Samhan, view point 03.jpg
+https://commons.wikimedia.org/wiki/File:Dhofar,_Jabal_Samhan,_view_point_03.jpg
+
+Both source photographs: CC BY-SA 4.0
+https://creativecommons.org/licenses/by-sa/4.0/
+
+Changes: AI-assisted photographic landscape recomposition, widescreen framing, addition of a flat illustrated Arabian leopard character, animation, and generated character speech in Arabic and English.
+
+The keyframe, poster images and adapted welcome videos in this directory are distributed under CC BY-SA 4.0. They are imaginative mixed-media animation, not unaltered documentary footage filmed in Oman. No endorsement by the photographer or any institution is implied.
+
+Voice revision — 28 September 2026 (Riyadh)
+The separate namour-ar-voice.mp3 and namour-en-voice.mp3 files were generated through Runway text-to-speech with the Rachel preset and Eleven Multilingual v2, using explicit Arabic/English language codes. Arabic was supplied with pronunciation marks. No cloned voice or impersonation was used. Sentence pauses longer than 0.45 seconds were shortened to 0.38 seconds; spoken audio was not sped up or pitch shifted. The final videos use these recordings directly, replacing the video model's generated dialogue.
+
+To the extent the pilot contributors hold rights in the standalone voice recordings, those rights are dedicated under CC0 1.0: https://creativecommons.org/publicdomain/zero/1.0/ . This does not grant rights in the underlying preset voice identity or model. The combined adapted video retains the CC BY-SA 4.0 license described above.
