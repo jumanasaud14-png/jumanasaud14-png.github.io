@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head><meta name="robots" content="noindex,nofollow">
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#7044e8"><meta name="description" content="تحكّم بالنمر العربي، اركض واقفز واستكشف خمس مراحل جبلية، واجمع شارات الطبيعة في طريقك إلى المأوى.">
+<title>مغامرة النمر العربي | العب بالنمر</title>
+<link rel="icon" type="image/png" href="../assets/brand-icon.png">
+<link rel="stylesheet" href="./style.css"><link rel="stylesheet" href="./navigation.css"><script type="module" src="./app.mjs"></script>
+<link rel="stylesheet" href="../navigation.css"><script type="module" src="../navigation.mjs"></script></head>
+<body data-title-ar="مغامرة النمر العربي | العب بالنمر" data-title-en="Into the Wild | Arabian Leopard Friends">
+<div class="app">
+<header class="topbar"><a class="wordmark home-link" href="../" aria-label="العودة إلى أصدقاء النمر العربي" data-ar-aria-label="العودة إلى أصدقاء النمر العربي" data-en-aria-label="Back to Arabian Leopard Friends"><img class="mark" src="../assets/brand-icon.png" width="54" height="54" alt=""><div><span class="small-brand"><span data-ar="أصدقاء النمر العربي" data-en="Arabian Leopard Friends">أصدقاء النمر العربي</span></span><h1><span data-ar="قفزة إلى البرّية" data-en="Into the Wild">قفزة إلى البرّية</span></h1></div></a><div class="topbar-right"><button type="button" class="language-switch" data-lang-toggle>English</button><a class="home-link back-home" href="../"><span data-ar="الرئيسية" data-en="Home">الرئيسية</span></a><span class="age-tag"><span data-ar="٧–٩ سنوات" data-en="Ages 7–9">٧–٩ سنوات</span></span><button type="button" id="help-button" class="utility" data-ar="؟" data-en="?" aria-label="طريقة اللعب" data-ar-aria-label="طريقة اللعب" data-en-aria-label="How to play">؟</button></div></header>
+<main id="game-shell" class="game-shell">
+ <div class="game-surface" id="game-surface">
+  <canvas id="game-canvas" tabindex="0" role="application" aria-label="مغامرة النمر العربي. استخدم السهمين للحركة، والمسافة للقفز، وشفت للركض. اضغط المسافة مرة ثانية في الهواء لقفزة مزدوجة." data-ar-aria-label="مغامرة النمر العربي. استخدم السهمين للحركة، والمسافة للقفز، وشفت للركض. اضغط المسافة مرة ثانية في الهواء لقفزة مزدوجة." data-en-aria-label="Arabian leopard adventure. Use arrow keys to move, Space to jump, and Shift to run. Press Space again in mid-air to double jump."><span data-ar="تحتاج اللعبة إلى متصفح يدعم الرسم على الشاشة." data-en="This game needs a browser that supports canvas.">تحتاج اللعبة إلى متصفح يدعم الرسم على الشاشة.</span></canvas>
+  <div class="hud" id="hud" hidden>
+   <div class="level-hud"><span class="level-number" id="level-number">١</span><div><span id="level-name">وادي الصخور</span><div class="journey-track" aria-label="التقدّم نحو المأوى" data-ar-aria-label="التقدّم نحو المأوى" data-en-aria-label="Progress towards the shelter"><i id="journey-fill"></i></div></div></div>
+   <div class="counters"><span class="counter leaf-counter" title="شارات الطبيعة" data-ar-title="شارات الطبيعة" data-en-title="Nature badges"><span aria-hidden="true">🌿</span><b id="leaf-count">٠ / ٣</b></span><span class="counter star-counter" title="النجوم" data-ar-title="النجوم" data-en-title="Stars"><span aria-hidden="true">★</span><b id="star-count">٠</b></span></div>
+   <div class="hud-buttons"><button class="hud-button" id="recover-button" type="button" aria-label="الرجوع إلى نقطة الأمان" data-ar-aria-label="الرجوع إلى نقطة الأمان" data-en-aria-label="Return to safety checkpoint">↶</button><button class="hud-button" id="sound-button" type="button" aria-label="إيقاف الأصوات" aria-pressed="true">♫</button><button class="hud-button" id="fullscreen-button" type="button" aria-label="ملء الشاشة" data-ar-aria-label="ملء الشاشة" data-en-aria-label="Fullscreen">⛶</button><button class="hud-button" id="pause-button" type="button" aria-label="إيقاف مؤقت" data-ar-aria-label="إيقاف مؤقت" data-en-aria-label="Pause">Ⅱ</button></div>
+  </div>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <div id="overlay" class="overlay"><section class="panel loading-panel"><img class="loading-paw" src="../assets/brand-icon.png" width="55" height="55" alt=""><h2><span data-ar="نجهّز لك المغامرة…" data-en="Getting your adventure ready…">نجهّز لك المغامرة…</span></h2><p><span data-ar="لحظات ويبدأ الاستكشاف." data-en="Just a moment, explorer.">لحظات ويبدأ الاستكشاف.</span></p></section></div>
+ </div>
+ <div class="control-deck" id="control-deck">
+  <div class="direction-controls" dir="ltr"><button type="button" class="control direction" data-control="left" aria-label="تحرّك إلى اليسار" data-ar-aria-label="تحرّك إلى اليسار" data-en-aria-label="Move left">←</button><button type="button" class="control direction" data-control="right" aria-label="تحرّك إلى اليمين" data-ar-aria-label="تحرّك إلى اليمين" data-en-aria-label="Move right">→</button></div>
+  <div class="control-hint" id="control-hint"><span><span data-ar="تحرّك " data-en="Move ">تحرّك </span><kbd>←</kbd><kbd>→</kbd></span><span><span data-ar="اقفز " data-en="Jump ">اقفز </span><kbd>Space</kbd></span><span><span data-ar="اركض " data-en="Run ">اركض </span><kbd>Shift</kbd></span></div>
+  <div class="action-controls"><button type="button" class="control run" data-control="run" aria-label="اضغط مطولًا للركض السريع" data-ar-aria-label="اضغط مطولًا للركض السريع" data-en-aria-label="Hold to run faster"><span aria-hidden="true">ϟ</span><small><span data-ar="اركض" data-en="Run">اركض</span></small></button><button type="button" class="control jump" data-control="jump" aria-label="اقفز، اضغط ثانية في الهواء لقفزة مزدوجة" data-ar-aria-label="اقفز، اضغط ثانية في الهواء لقفزة مزدوجة" data-en-aria-label="Jump; press again in mid-air to double jump"><span aria-hidden="true">↑</span><small><span data-ar="اقفز" data-en="Jump">اقفز</span></small></button></div>
+ </div>
+</main>
+<footer class="footer"><span><span class="footer-spark">✦</span><span data-ar=" اجمع شارات الطبيعة، وأوصل النمر إلى المأوى." data-en=" Collect nature badges and guide the leopard home."> اجمع شارات الطبيعة، وأوصل النمر إلى المأوى.</span></span><span class="landscape-hint"><span data-ar="على الجوال؟ جرّب اللعب بالعرض ↻" data-en="On a phone? Try landscape ↻">على الجوال؟ جرّب اللعب بالعرض ↻</span></span></footer>
+<div id="announcer" class="sr-only" aria-live="polite" aria-atomic="true"></div>
+</div>
+</body>
+</html>
